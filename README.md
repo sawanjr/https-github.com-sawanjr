@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Sawan Kumar!
 
 ![GitHub followers](https://img.shields.io/github/followers/sawanjr?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/sawankumarj?style=social)
 
 I'm passionate about **Machine Learning**, **Data Science**, **MLOps**, and **Statistics**. I thrive on turning data into insights and deploying intelligent solutions.
 
