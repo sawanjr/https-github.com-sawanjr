@@ -25,7 +25,7 @@ I'm passionate about **Machine Learning**, **Data Science**, **MLOps**, and **St
 Let's connect and collaborate! You can find me on:
 
 - [Twitter](https://twitter.com/sawankumarj) 🐦
-- [LinkedIn]([https://www.linkedin.com/in/sawan-kumar/](https://www.linkedin.com/in/sawan-kumar-bb8793243/)) 💼
+- [LinkedIn]([https://www.linkedin.com/in/sawan-kumar/]) 💼
 
 Feel free to explore my repositories and reach out for interesting projects and discussions. I'm always excited to learn and share knowledge.
 
