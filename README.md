@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sawan Kumar!
+# 👋 Hi there, I'm Sawan!
 
 ![GitHub followers](https://img.shields.io/github/followers/sawanjr?label=Follow&style=social)
 
@@ -13,12 +13,14 @@ I'm passionate about **Machine Learning**, **Data Science**, **MLOps**, **Langch
 
 ## 🌱 My Skills
 
-- Python | R | SQL | Java
-- Scikit-Learn | TensorFlow 
+- Python | R | SQL | Java | html | css | Flask
+- Libraries: TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, seaborn, Spacy, NLTK, Keras, Hugging Face, Open Al
 - Data Analysis | Data Visualization
-- Docker 
+- Tools: Power Bl, Git, Docker 
 - Jupyter | VS Code
-
+- Concepts: MLOps, Data Structures and Algorithms, Object Oriented Programming, A/B testing
+- Cloud Frameworks: AWS (S3, EC2, SageMaker, Athena, Lambda, Redshift)
+- Explainable AI: (SHAP, LIME)
 ## 🌐 Connect With Me
 
 Let's connect and collaborate! You can find me on:
