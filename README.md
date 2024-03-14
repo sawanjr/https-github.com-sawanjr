@@ -13,13 +13,12 @@ I'm passionate about **Machine Learning**, **Data Science**, **MLOps**, **Langch
 
 ## 🌱 My Skills
 
-- Python | R | SQL | Java | html | css | Flask
-- Libraries: TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, seaborn, Spacy, NLTK, Keras, Hugging Face, Open Al
+- Python | R | SQL | Java | html | css | Flask | FastAPI
+- Libraries: TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, seaborn, Spacy, Keras, Hugging Face, Open Al | Tensorflow Extended (TFX)
 - Data Analysis | Data Visualization
-- Tools: Power Bl, Git, Docker 
-- Jupyter | VS Code
-- Concepts: MLOps, Data Structures and Algorithms, Object Oriented Programming, A/B testing
-- Cloud Frameworks: AWS (S3, EC2, SageMaker, Athena, Lambda, Redshift)
+- Tools: Power Bl, Git, Docker, DVC, Github Actions, Mlflow 
+- Jupyter | VS Code | Google-Collab
+- Concepts: MLOps, Data Structures and Algorithms, Object Oriented Programming , machine learning, Statistics
 - Explainable AI: (SHAP, LIME)
 ## 🌐 Connect With Me
 
