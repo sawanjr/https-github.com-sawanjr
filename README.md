@@ -18,7 +18,7 @@ I'm passionate about **Machine Learning**, **Data Science**, **MLOps**, **Langch
 - Data Analysis | Data Visualization
 - Tools: Power Bl, Git, Docker, DVC, Github Actions, Mlflow 
 - Jupyter | VS Code | Google-Collab
-- Concepts: MLOps, Data Structures and Algorithms, Object Oriented Programming , machine learning, Statistics
+- Concepts: MLOps, Data Structures and Algorithms, Object Oriented Programming , Generative AI, Continious Intigration and continious Deployment, Statistics
 - Explainable AI: (SHAP, LIME)
 ## 🌐 Connect With Me
 
