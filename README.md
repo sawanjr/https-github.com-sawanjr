@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/sawanjr?label=Follow&style=social)
 
-I'm passionate about **Machine Learning**, **Data Science**, **MLOps**, **Langchain**,**LLMs** and **Statistics**. I thrive on turning data into insights and deploying intelligent solutions.
+I'm passionate about **Machine Learning**, **Langchain**,**LLMs** . I thrive on turning data into insights and deploying intelligent solutions.
 
 ## 🚀 What I Do
 
